@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Pixel Art Maker Project
 
-You can use the [editor on GitHub](https://github.com/Ojo-Femi/Pixel-Art-Maker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
-### Markdown
+## Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To get started, open `designs.js` and start building out the app's functionality.
 
-```markdown
-Syntax highlighted code block
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-# Header 1
-## Header 2
-### Header 3
+## Contributing
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ojo-Femi/Pixel-Art-Maker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
